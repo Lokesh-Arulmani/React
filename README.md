@@ -1,8 +1,19 @@
-# React + Vite
+# My React Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Project Overview
+This is a React project built using Vite, featuring various components like a counter, user data form, Google Sign-In, and a dashboard.
 
-Currently, two official plugins are available:
+## Features
+- Counter with smooth background color animation
+- User data form with auto-generated UUID
+- Google Sign-In and protected routes
+- Dashboard with chart visualization
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Installation
+Clone the repo and install dependencies:
+```sh
+npm install
+
+## Run the Project
+Start the development server:
+npm run dev
