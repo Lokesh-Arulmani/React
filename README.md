@@ -13,7 +13,9 @@ This is a React project built using Vite, featuring various components like a co
 Clone the repo and install dependencies:
 ```sh
 npm install
+```
 
 ## Run the Project
 Start the development server:
+```sh
 npm run dev
